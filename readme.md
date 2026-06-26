@@ -64,25 +64,25 @@ This application note describes the use of SmartDMA to implement the SPI (Serial
 
 2. Connect both boards to computer via USB cables. The hardware as below:
 
-   ![](.\images\hardware.png) 
+   ![](./images/hardware.png) 
 
 ### 3.2 Import Project
 
 1. Open MCUXpresso IDE, in the Quick Start Panel, choose **Import from Application Code Hub**.<br>
 
-   ![](.\images\import.png)
+   ![](./images\import.png)
 
 2. Enter the demo name in the search bar.<br><br>
 
-   ![](.\images\Search.png)
+   ![](./images/Search.png)
 
 3. Click **Copy GitHub link**, MCUXpresso IDE will automatically retrieve project attributes, then click **Next>**.<br><br>
 
-   ![](.\images\copy.png)
+   ![](./images/copy.png)
 
 4. Select **main** branch and then click **Next>**, Select the MCUXpresso project, click **Finish** button to complete import.<br><br>
 
-   ![](.\images\select.png)
+   ![](./images/select.png)
 
 ### 3.3 Demo hands-on 
 
