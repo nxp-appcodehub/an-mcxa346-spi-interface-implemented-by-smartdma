@@ -70,7 +70,7 @@ This application note describes the use of SmartDMA to implement the SPI (Serial
 
 1. Open MCUXpresso IDE, in the Quick Start Panel, choose **Import from Application Code Hub**.<br>
 
-   ![](./images\import.png)
+   ![](./images/Import.png)
 
 2. Enter the demo name in the search bar.<br><br>
 
@@ -78,11 +78,11 @@ This application note describes the use of SmartDMA to implement the SPI (Serial
 
 3. Click **Copy GitHub link**, MCUXpresso IDE will automatically retrieve project attributes, then click **Next>**.<br><br>
 
-   ![](./images/copy.png)
+   ![](./images/Copy.png)
 
 4. Select **main** branch and then click **Next>**, Select the MCUXpresso project, click **Finish** button to complete import.<br><br>
 
-   ![](./images/select.png)
+   ![](./images/Select.png)
 
 ### 3.3 Demo hands-on 
 
